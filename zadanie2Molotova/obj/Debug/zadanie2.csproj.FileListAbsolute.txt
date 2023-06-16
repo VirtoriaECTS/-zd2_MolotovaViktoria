@@ -1,0 +1,31 @@
+C:\Users\305-2\Desktop\учебнаяпракикаМолотова\zadanie2\bin\Debug\zadanie2.exe.config
+C:\Users\305-2\Desktop\учебнаяпракикаМолотова\zadanie2\bin\Debug\zadanie2.exe
+C:\Users\305-2\Desktop\учебнаяпракикаМолотова\zadanie2\bin\Debug\zadanie2.pdb
+C:\Users\305-2\Desktop\учебнаяпракикаМолотова\zadanie2\obj\Debug\zadanie2.csproj.AssemblyReference.cache
+C:\Users\305-2\Desktop\учебнаяпракикаМолотова\zadanie2\obj\Debug\zadanie2.Form1.resources
+C:\Users\305-2\Desktop\учебнаяпракикаМолотова\zadanie2\obj\Debug\zadanie2.Properties.Resources.resources
+C:\Users\305-2\Desktop\учебнаяпракикаМолотова\zadanie2\obj\Debug\zadanie2.csproj.GenerateResource.cache
+C:\Users\305-2\Desktop\учебнаяпракикаМолотова\zadanie2\obj\Debug\zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\305-2\Desktop\учебнаяпракикаМолотова\zadanie2\obj\Debug\zadanie2.exe
+C:\Users\305-2\Desktop\учебнаяпракикаМолотова\zadanie2\obj\Debug\zadanie2.pdb
+E:\УЧ_П_мироша\Я ТЕБЯ ЛЮБЛЮ (2 ЗАДАНИЕ МОЛОТОВА)\zadanie2\bin\Debug\zadanie2.exe.config
+E:\УЧ_П_мироша\Я ТЕБЯ ЛЮБЛЮ (2 ЗАДАНИЕ МОЛОТОВА)\zadanie2\bin\Debug\zadanie2.exe
+E:\УЧ_П_мироша\Я ТЕБЯ ЛЮБЛЮ (2 ЗАДАНИЕ МОЛОТОВА)\zadanie2\bin\Debug\zadanie2.pdb
+E:\УЧ_П_мироша\Я ТЕБЯ ЛЮБЛЮ (2 ЗАДАНИЕ МОЛОТОВА)\zadanie2\obj\Debug\zadanie2.csproj.AssemblyReference.cache
+E:\УЧ_П_мироша\Я ТЕБЯ ЛЮБЛЮ (2 ЗАДАНИЕ МОЛОТОВА)\zadanie2\obj\Debug\zadanie2.csproj.SuggestedBindingRedirects.cache
+E:\УЧ_П_мироша\Я ТЕБЯ ЛЮБЛЮ (2 ЗАДАНИЕ МОЛОТОВА)\zadanie2\obj\Debug\zadanie2.Form1.resources
+E:\УЧ_П_мироша\Я ТЕБЯ ЛЮБЛЮ (2 ЗАДАНИЕ МОЛОТОВА)\zadanie2\obj\Debug\zadanie2.Properties.Resources.resources
+E:\УЧ_П_мироша\Я ТЕБЯ ЛЮБЛЮ (2 ЗАДАНИЕ МОЛОТОВА)\zadanie2\obj\Debug\zadanie2.csproj.GenerateResource.cache
+E:\УЧ_П_мироша\Я ТЕБЯ ЛЮБЛЮ (2 ЗАДАНИЕ МОЛОТОВА)\zadanie2\obj\Debug\zadanie2.csproj.CoreCompileInputs.cache
+E:\УЧ_П_мироша\Я ТЕБЯ ЛЮБЛЮ (2 ЗАДАНИЕ МОЛОТОВА)\zadanie2\obj\Debug\zadanie2.exe
+E:\УЧ_П_мироша\Я ТЕБЯ ЛЮБЛЮ (2 ЗАДАНИЕ МОЛОТОВА)\zadanie2\obj\Debug\zadanie2.pdb
+C:\Users\305-2\Desktop\учебнаяпракикаМолотова\zadanie2Molotova\bin\Debug\zadanie2.exe.config
+C:\Users\305-2\Desktop\учебнаяпракикаМолотова\zadanie2Molotova\bin\Debug\zadanie2.exe
+C:\Users\305-2\Desktop\учебнаяпракикаМолотова\zadanie2Molotova\bin\Debug\zadanie2.pdb
+C:\Users\305-2\Desktop\учебнаяпракикаМолотова\zadanie2Molotova\obj\Debug\zadanie2.csproj.AssemblyReference.cache
+C:\Users\305-2\Desktop\учебнаяпракикаМолотова\zadanie2Molotova\obj\Debug\zadanie2.Form1.resources
+C:\Users\305-2\Desktop\учебнаяпракикаМолотова\zadanie2Molotova\obj\Debug\zadanie2.Properties.Resources.resources
+C:\Users\305-2\Desktop\учебнаяпракикаМолотова\zadanie2Molotova\obj\Debug\zadanie2.csproj.GenerateResource.cache
+C:\Users\305-2\Desktop\учебнаяпракикаМолотова\zadanie2Molotova\obj\Debug\zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\305-2\Desktop\учебнаяпракикаМолотова\zadanie2Molotova\obj\Debug\zadanie2.exe
+C:\Users\305-2\Desktop\учебнаяпракикаМолотова\zadanie2Molotova\obj\Debug\zadanie2.pdb
